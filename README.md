@@ -7,6 +7,6 @@ The Fortran code of MINPACK has been integrated into [scipy.optimize.curve_fit](
 
 ## Fitting elliptical dataset with LM
 
-The dotted line is the LM fit of the  noisy elliptical dataset, with a far outlier added.
+The dotted line is the LM fit of the  noisy elliptical dataset, with a far outlier added bottom left.
 
 <img src="opt/lm_elliptical_fit.png"  width="400">
